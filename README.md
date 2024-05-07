@@ -1,2 +1,3 @@
-# CS-Study
-CS study repository
+## CS-Study
+
+Hi there 🌱
