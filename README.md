@@ -2,6 +2,10 @@
 
 > Since 2024.05.07
 
+<p align="center">
+  <img src="https://github.com/Team-8th-Sprout/CS-Study/assets/57245883/8004333a-def8-45bd-8d14-eafb6011411c" width="300" height="300"/>
+</p>
+
 ## About
 CS 주제 전반에 걸쳐 이론부터 구현까지, 예비 개발자로서 알아야 할 필수 전공 지식들을 기록한 저장소입니다. 
 
